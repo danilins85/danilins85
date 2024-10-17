@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou @danilins85
-- 👀 Sou DEV super iniciante
+- 👀 Sou Cientista de Dados super iniciante
 - 🌱 Estou aprendendo JS
 
 <!---
